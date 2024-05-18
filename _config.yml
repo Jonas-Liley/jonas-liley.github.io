@@ -10,11 +10,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: jonas.liley@owasp.org
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/hacker.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/stockholm.jpg"
 
 name: 'Jonas Liley'
 author: 'Jonas Liley'
@@ -42,7 +42,7 @@ social:
     share_link:
 
   - icon:	linkedin
-    url:	https://linkedin.com/jonas-liley
+    url:	https://www.linkedin.com/in/jonas-liley/
     desc:	Check me out on LinkedIn
     share_url:
     share_title:
