@@ -18,7 +18,7 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Jonas Liley'
 author: 'Jonas Liley'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/hacker.png"
 
 paginate:	5
 
@@ -34,20 +34,6 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  #  - icon:	twitter
-  #  url:	https://twitter.com/dirkfabisch
-  #  desc: Follow me on twitter
-  #  share_url: http://twitter.com/share
-  #  share_title: ?text=
-  #  share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
   - icon:	github
     url:	https://github.com/Jonas-Liley
     desc:	Follow me on GitHub
@@ -55,9 +41,9 @@ social:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	linkedin
+    url:	https://linkedin.com/jonas-liley
+    desc:	Check me out on LinkedIn
+    share_url:
+    share_title:
+    share_link:
